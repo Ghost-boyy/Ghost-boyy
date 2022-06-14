@@ -18,6 +18,5 @@
   
   
   
-  ![Snake animation](Ghost-boyy/Jhonatha-olivic)
 
   
